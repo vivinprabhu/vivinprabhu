@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Vivinprabhu</h1>
 <h3>A passionate MERN stack web developer from India</h3>
 
-<h4>https://vivinprabhu.github.io/Portfolio/</h4>
+<h4><a href="https://vivinprabhu.github.io/Portfolio/" target="_blank">https://vivinprabhu.github.io/Portfolio/</a></h4>
 
 - I’m currently learning **MongoDB, ExpressJS, ReactJS, NodeJS**
 
