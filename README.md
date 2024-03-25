@@ -3,7 +3,7 @@
 
 <h4>https://vivinprabhu.github.io/Portfolio/</h4>
 
-- I’m currently learning **MongoDB, ExpressJS, ReactJS, NodeJS , Java**
+- I’m currently learning **MongoDB, ExpressJS, ReactJS, NodeJS**
 
 - Reach me through **cseskct255vivinprabhu@gmail.com**
 
