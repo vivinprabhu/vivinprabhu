@@ -8,9 +8,7 @@
 - Reach me through **cseskct255vivinprabhu@gmail.com**
 
 <h2>About me</h2>
-I'm a full stack web developer and a pre final year Computer Science and Engineering student. Having the ability to build user-friendly and super responsive web pages. Always ready to learn the best technologies that saves the time. Having the personalised skills of Self-learning , Teamwork and Time management.
-
-
+I'm a full stack web developer and a pre final year Computer Science and Engineering student. Having the ability to build user-friendly and super responsive web pages. I always ready to learn the best technologies which saves the time and make more efficient output. Effectively leveraging personalized skills including self-learning, teamwork, and time management.
 
 <h3>Languages known:</h3>
  HTML | CSS | ReactJS | ExpressJS | MongoDB | MySQL
