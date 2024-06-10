@@ -1,5 +1,7 @@
- Reach me through
+Reach me through
+- cseskct255vivinprabhu@gmail.com
+- https://www.linkedin.com/in/vivinprabhu/
+- https://vivinprabhu.github.io/Portfolio/
 
- - <h4>https://vivinprabhu.github.io/Portfolio/</h4>
- 
-cseskct255vivinprabhu@gmail.com
+Coding Profile:
+- https://leetcode.com/u/vivinprabhu
