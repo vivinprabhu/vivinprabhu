@@ -1,3 +1,3 @@
-Hey! I'm a Software Developer mainly working with the MERN stack (MongoDB, Express, React, Node) and I have little experience in SpringBoot with Microservices Architecture and MySQL. 
+Hey! I'm a Software Engineer mainly working on the MERN stack (MongoDB, ExpressJS, React (Vite), NodeJS) and I have little experience in SpringBoot with Microservices Architecture + MySQL. I'm currently learning Flutter. 
 
-Reach me through cseskct255vivinprabhu@gmail.com
+Reach me through vivinprabhu.dev@gmail.com
